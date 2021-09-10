@@ -1,0 +1,29 @@
+{
+    "name": "mevlampiev-site",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nissan1361/Node_JS_project_mevlampiev.git"
+    },
+    "keywords": [
+        "nodejs"
+    ],
+    "author": "Maxim Evlampiev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nissan1361/Node_JS_project_mevlampiev/issues"
+    },
+    "homepage": "https://github.com/nissan1361/Node_JS_project_mevlampiev#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.3"
+    }
+}
